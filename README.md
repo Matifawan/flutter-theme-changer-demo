@@ -14,6 +14,7 @@ A simple Flutter app to demonstrate dynamic theme switching (light/dark).
 
 ## 🎬 Demo
   
-![Demo](assets/demo.gif)
+![Demo](https://github.com/Matifawan/flutter-theme-changer-demo/raw/master/assets/demo.gif)
+
 
 
