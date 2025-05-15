@@ -13,7 +13,7 @@ A simple Flutter app to demonstrate dynamic theme switching (light/dark).
 
 
 ## 🎬 Demo
-Include a demo GIF inside the `assets` folder and update the path below:
   
 ![Demo](assets/demo.gif)
+
 
