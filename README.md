@@ -8,8 +8,7 @@ A simple Flutter app to demonstrate dynamic theme switching (light/dark).
 - Easy to Extend
 
 ## 📁 Files Included
-- main.dart
-- home.dart
+- home_screen.dart
 
 
 ## 🎬 Demo
